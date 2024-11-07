@@ -1,0 +1,2 @@
+# Knights Travails
+A solution to the "knights travails" problem from TOP course, implemented with BFS algorithm in a graph structure. The goal was to find the shortest path a knight can take to move between two postions on a chessboard.
